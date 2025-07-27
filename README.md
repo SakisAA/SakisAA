@@ -1,9 +1,18 @@
-## Hi there 👋
+## Hi there 👋 Καλωσήρθες στο προφίλ μου!
 
 <!--
 **SakisAA/SakisAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+🧑‍🎓 Φοιτητής Πληροφορικής (3ο έτος)  
+💡 Ενδιαφέροντα: Python, CLI εργαλεία, παιχνίδια γνώσεων, Java  
+📘 Μαθαίνω: Git, OOP, GUI, APIs  
+🌐 Repositories:
+- [weather-cli](https://github.com/SakisAA/weather_cli)
+- soon: "Millionaire Quiz Game"
+
+📫 Επικοινωνία: mrmasterj@hotmail.com  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
