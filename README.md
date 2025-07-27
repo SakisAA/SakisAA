@@ -4,7 +4,7 @@
 💡 Ενδιαφέροντα: Python, CLI εργαλεία, παιχνίδια γνώσεων, Java  
 📘 Μαθαίνω: Git, OOP, GUI, APIs  
 🌐 Repositories:
-- [weather-cli](https://github.com/SakisAA/weather_cli)
+- [weather_cli](https://github.com/SakisAA/weather_cli)
 - soon: "Millionaire Quiz Game"
 
 <!--
