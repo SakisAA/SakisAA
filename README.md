@@ -4,8 +4,8 @@
 💡 Ενδιαφέροντα: Python, CLI εργαλεία, παιχνίδια γνώσεων, Java  
 📘 Μαθαίνω: Git, OOP, GUI, APIs  
 🌐 Repositories:
-- [weather_cli](https://github.com/SakisAA/weather_cli)
-- soon: "Millionaire Quiz Game"
+- [Wannabe Millionaire](https://github.com/SakisAA/wannabe-millionaire) - Quiz game in Python
+- [Weather CLI](https://github.com/SakisAA/weather-cli) - Command line weather app
 
 <!--
 **SakisAA/SakisAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
